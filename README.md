@@ -9,20 +9,20 @@ select predefined lighting modes, or create their own custom modes.
 
 Technologies Used:
 
-Arduino
-C/C++
-Python
-Flask API
-React Native
-Sensors and Microcontroller (LDR, PIR, ESP32)
+Arduino,
+ C/C++,
+ Python,
+ Flask API,
+ React Native,
+ Sensors and Microcontroller (LDR, PIR, ESP32)
 
 This project was carried out by a team of six people. I am one of the contributors.
 
 Contributors:
 
-Aleyna BENZER
-Fadime Bilge KURT
-Hirad KHADEMİAN
-Fatıma Zehra ÖZYÜREK
-Eda BOLAT
-Esra İLMAN
+Aleyna BENZER,
+ Fadime Bilge KURT,
+ Hirad KHADEMİAN,
+ Fatıma Zehra ÖZYÜREK,
+ Eda BOLAT,
+ Esra İLMAN
