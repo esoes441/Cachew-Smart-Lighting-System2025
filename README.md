@@ -7,7 +7,7 @@ the LDR sensors optimize brightness according to the ambient light, ensuring ene
 Users can easily control the system remotely via a mobile application, 
 select predefined lighting modes, or create their own custom modes.
 
-Technologies Used:
+Technologies Used
 
 Arduino,
  C/C++,
@@ -16,9 +16,10 @@ Arduino,
  React Native,
  Sensors and Microcontroller (LDR, PIR, ESP32)
 
-This project was carried out by a team of six people. I am one of the contributors.
 
-Contributors:
+Contributors
+
+This project was carried out by a team of six people. I am one of the contributors.
 
 Aleyna BENZER,
  Fadime Bilge KURT,
