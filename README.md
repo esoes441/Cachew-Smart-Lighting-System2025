@@ -1,4 +1,4 @@
-CachewLight / Smart Lighting System
+Smart Lighting System
 
 This project is developed around an intelligent lighting system. 
 The system can adjust the lighting automatically or manually by using real-time sensor data. 
